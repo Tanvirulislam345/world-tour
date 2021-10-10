@@ -1,0 +1,22 @@
+.touristPerson{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: hsl(0, 6%, 97%);
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    color: black;
+    display: flex;
+    height: 64px;
+}
+.touristPerson img{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 80px;
+    height: 64px;
+
+}
+.touristPerson h4{
+    color: red;
+    margin-left: 10px;
+    margin: 5px;
+}

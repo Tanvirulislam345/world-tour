@@ -1,0 +1,30 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(223, 220, 221);
+    border-radius: 10px;
+    padding: 10px;
+}
+.card img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.card p{
+    color: red;
+    font-size: 15px;
+}
+.card p span{
+    font-weight: bolder;
+    color: saddlebrown;
+}
+.button{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.button button{
+    width: 130px;
+    height: 25px;
+    background-color: #f8b05e;
+    border: 1px solid black;
+    border-radius: 2px;
+}

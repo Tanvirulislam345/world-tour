@@ -1,0 +1,13 @@
+.details-container{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: hsl(0, 6%, 97%);
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    padding-left: 10px;
+    color: black;
+}
+.details-container h3 span{
+    color: brown;
+}
